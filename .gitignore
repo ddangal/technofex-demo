@@ -17,7 +17,6 @@ terragrunt
 .flaskenv
 *.pyc
 *.pyo
-env/
 venv/
 .venv/
 env*
